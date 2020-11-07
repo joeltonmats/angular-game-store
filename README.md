@@ -1,1 +1,1 @@
-# game-store-angular2
+# Angular Game Store
